@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "818701947384",
+    "project_id": "fir-ti-c",
+    "storage_bucket": "fir-ti-c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818701947384:android:46cff3fda4caf52414c60d",
+        "android_client_info": {
+          "package_name": "com.example.modulfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818701947384-92jlrfk1rec7e0iq21mt7cvdi0cs2ngu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwE54RMdJN9CSzyxgPyutLMWu5GUbsYaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818701947384-92jlrfk1rec7e0iq21mt7cvdi0cs2ngu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
